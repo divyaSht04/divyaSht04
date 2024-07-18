@@ -1,5 +1,3 @@
-Great! Here’s a draft for your GitHub README profile:
-
 ---
 
 ## Hi there, I'm Divya Shrestha! 👋

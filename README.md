@@ -33,5 +33,5 @@ I'm always eager to learn new technologies and stay updated with the latest tren
 
 ### 💬 Let's Connect!
 
-- Email : divyyyasht5566@gmail.com
+- Email : divya.shrestha2004@gmail.com
 

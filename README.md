@@ -35,7 +35,4 @@ I'm always eager to learn new technologies and stay updated with the latest tren
 
 - Email : divya.shrestha2004@gmail.com
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
 

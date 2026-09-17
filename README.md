@@ -4,7 +4,7 @@
 
 ### About Me
 
-I'm a 21-year-old college student with a passion for Artificial Intelligence, Web Development and Cyber Security. Currently, I'm diving deep into the world of AI, exploring its vast potentials, and honing my skills in web development to build interactive and user-friendly applications.
+I'm a 22-year-old college student with a passion for Artificial Intelligence, Web Development and Cyber Security. Currently, I'm diving deep into the world of AI, exploring its vast potentials, and honing my skills in web development to build interactive and user-friendly applications.
 
 ### 🔧 Technologies & Tools
 
